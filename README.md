@@ -146,19 +146,4 @@ Users can customize the project by modifying the Bard API key. In case users enc
 
 - **Database Integration:** Future plans include connecting the project to a database for data storage and retrieval.
 - **Power BI Integration:** Explore options for enhancing interactivity by integrating the project with Power BI.
-
-## Contact Information
-
-For any inquiries or support, please contact Saivishal Vempati at [vempatisaivishal@gmail.com](mailto:vempatisaivishal@gmail.com).
-
-## Credits
-
-- Generative AI
-- Google Bard
-  
-Vempati Sai Vishal
-Narigiri Vaishnav
-Chitimella Praneeth
-M Shanmukh
-
 ---
