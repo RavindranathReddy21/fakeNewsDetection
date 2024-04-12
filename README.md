@@ -1,11 +1,3 @@
-# GlobalEduHub: Empowering Students with Reliable Information
-
-Welcome to GlobalEduHub, an advanced solution developed to transform and fully mobilize the student experience at the University of South Florida System.
-
-## Problem Statement
-
-The University of South Florida System, serving nearly 48,000 students annually, faced the challenge of managing a growing number of applications. This hindered the delivery of new capabilities, prompting the need for a low-code, AI-driven platform. USF IT aimed to accelerate delivery while transforming the student experience.
-
 ## Project Features
 
 ### Intelligent Information Filtering
