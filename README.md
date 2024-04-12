@@ -2,7 +2,7 @@
 
 ### Intelligent Information Filtering
 
-GlobalEduHub allows students to filter information by day, time, and region, making educational content more accessible and relevant.
+This project allows students to filter information by day, time, and region, making educational content more accessible and relevant.
 
 ### Interactive Chatbot Guidance
 
@@ -10,11 +10,11 @@ A user-friendly chatbot guides students through the application, providing assis
 
 ### News Veracity Assessment
 
-Leveraging Generative AI, Machine Learning, and Deep Learning models, GlobalEduHub determines the authenticity of news articles, educating students on distinguishing between true and false information.
+Leveraging Generative AI, Machine Learning, and Deep Learning models, this project determines the authenticity of news articles, educating students on distinguishing between true and false information.
 
 ### Educational Link References
 
-For each verified news article, GlobalEduHub provides links to credible sources, empowering students to follow a study path based on reliable information.
+For each verified news article, this project provides links to credible sources, empowering students to follow a study path based on reliable information.
 
 ### Auto-Population for Quality Education
 
@@ -75,7 +75,7 @@ Students can access a curated news feed enriched with verified information for t
 
 GlobalTruthHub provides options to filter the news feed based on date and region, tailoring the information to specific student requirements.
 
-## What Makes This Project Special
+## What Makes this Project Special
 
 ### Interactive Interface
 
