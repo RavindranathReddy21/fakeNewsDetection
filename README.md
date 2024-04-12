@@ -47,31 +47,31 @@ The auto-populating feature allows students to automatically share verified news
 
 ### 1. Entering News
 
-![Entering News](https://github.com/vempatisai/GlobalTruthHub/blob/main/images/image_1.png?raw=true)
+![Entering News](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/image_1.png?raw=true)
 
 Users can enter the news they want to verify. GlobalTruthHub processes the entered news and provides an assessment of its authenticity, enriching the quality of the dataset.
 
 ### 2. Entry Point
 
-![Entry Point](https://github.com/vempatisai/GlobalTruthHub/blob/main/images/image_2.png?raw=true)
+![Entry Point](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/image_2.png?raw=true)
 
 The entry point allows users to input news articles into the system.
 
 ### 3. Verifying News Authenticity
 
-![Verifying News](https://github.com/vempatisai/GlobalTruthHub/blob/main/images/image_3.png?raw=true)
+![Verifying News](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/image_3.png?raw=true)
 
 GlobalTruthHub evaluates the entered news, indicating whether it is true or false. It also provides information and credibility details, enhancing user trust in the information.
 
 ### 4. News Feed
 
-![News Feed](https://github.com/vempatisai/GlobalTruthHub/blob/main/images/image_4.png?raw=true)
+![News Feed](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/image_4.png?raw=true)
 
 Students can access a curated news feed enriched with verified information for their study purposes.
 
 ### 5. Date and Region Filtering
 
-![Filtering Options](https://github.com/vempatisai/GlobalTruthHub/blob/main/images/image_5.png?raw=true)
+![Filtering Options](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/image_5.png?raw=true)
 
 GlobalTruthHub provides options to filter the news feed based on date and region, tailoring the information to specific student requirements.
 
@@ -79,25 +79,25 @@ GlobalTruthHub provides options to filter the news feed based on date and region
 
 ### Interactive Interface
 
-![Interactive Features](https://github.com/vempatisai/GlobalTruthHub/blob/main/images/ss7.jpg?raw=true)
+![Interactive Features](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss7.jpg?raw=true)
 
 GlobalTruthHub comes with several distinctive features that set it apart from other education hubs and resources.
 
 ### Chat Bot Assistance
 
-![Chat Bot](https://github.com/vempatisai/GlobalTruthHub/blob/main/images/ss8.jpg?raw=true)
+![Chat Bot](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss8.jpg?raw=true)
 
 The project includes an interactive chatbot designed to assist students in understanding the application. If a student is confused, the chatbot provides guidance, enhancing the overall user experience.
 
 ### Auto-Populating Feature
 
-![Auto-Populating Feature](https://github.com/vempatisai/GlobalTruthHub/blob/main/images/ss9.jpg?raw=true)
+![Auto-Populating Feature](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss9.jpg?raw=true)
 
 GlobalTruthHub introduces an auto-populating feature using Selenium. It alerts students if they are reading misleading or incorrect news, fostering a more informed educational experience.
 
 ### Focus on Natural Language Processing (NLP)
 
-![NLP](https://github.com/vempatisai/GlobalTruthHub/blob/main/images/ss10.jpg?raw=true)
+![NLP](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss10.jpg?raw=true)
 
 The entire project is centered around Natural Language Processing (NLP), leveraging cutting-edge technologies to enhance the quality of news verification. The images below illustrate the NLP process.
 
